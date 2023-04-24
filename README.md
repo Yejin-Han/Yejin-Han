@@ -37,6 +37,6 @@
 <br />
 <div align="center">
   <h4>📊 Github Stats & Language use ratio 📊</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yejin-Han&show_icons=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yejin-Han&langs_count=10&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yejin-Han&show_icons=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yejin-Han&langs_count=10&layout=compact&count_private=true" />
 </div>
